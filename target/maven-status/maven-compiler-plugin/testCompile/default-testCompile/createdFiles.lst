@@ -1,0 +1,7 @@
+steps\runnerClass\FlightTest.class
+pageObjects\Flights.class
+utilities\DataDriven.class
+stepsOf\RegisterSteps.class
+steps\runnerClass\RegisterTest.class
+pageObjects\Register.class
+stepsOf\FlightsSteps.class
